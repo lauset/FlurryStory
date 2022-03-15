@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnimScreen>
+	<Image>
+		<Path>Controls/stardewPanorama</Path>
+		<IsActive>true</IsActive>
+		<IsFullScreen>true</IsFullScreen>
+		<Position>
+			<X>0</X>
+			<Y>0</Y>
+		</Position>
+		<Scale>
+			<X>2.0</X>
+			<Y>1.8</Y>
+		</Scale>
+	</Image>
+</AnimScreen>
