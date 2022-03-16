@@ -179,8 +179,14 @@
 #begin Load/AnimScreen.xml
 /copy:Load/AnimScreen.xml
 
+#begin Load/Maps/Map01.xml
+/copy:Load/Maps/Map01.xml
+
 #begin Load/MenuData.xml
 /copy:Load/MenuData.xml
+
+#begin Load/Players/Yuan.xml
+/copy:Load/Players/Yuan.xml
 
 #begin Load/ScreenManager.xml
 /copy:Load/ScreenManager.xml

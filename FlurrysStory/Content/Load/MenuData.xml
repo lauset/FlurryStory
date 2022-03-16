@@ -4,7 +4,7 @@
 	<Effects>FadeEffect</Effects>
 	<Item>
 		<LinkType>Screen</LinkType>
-		<LinkID>AnimScreen</LinkID>
+		<LinkID>GamePlay.GamePlayScreen</LinkID>
 		<Image>
 			<Path>Controls/textBox</Path>
 			<Text>New Game</Text>
