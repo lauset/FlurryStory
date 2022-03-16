@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Yuan>
+	<Image>
+		<Path>Animals/cat</Path>
+		<Position>
+			<X>500</X>
+			<Y>400</Y>
+		</Position>
+		<Scale>
+			<X>1.0</X>
+			<Y>1.0</Y>
+		</Scale>
+		<Effects>SpriteSheetEffect</Effects>
+	</Image>
+	<MoveSpeed>70</MoveSpeed>
+</Yuan>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Map>
+	<TileDimensions>
+		<X>64</X>
+		<Y>64</Y>
+	</TileDimensions>
+	<Layer>
+		<Image>
+			<Path>TileMaps/Flooring</Path>
+			<Scale>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</Scale>
+		</Image>
+		<TileMap>
+			<Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+			<Row>[0:0][0:1][0:1][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+			<Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+			<Row>[0:0][0:0][0:0][1:0][1:0][0:0][0:0][0:0][0:0][0:0]</Row>
+			<Row>[0:0][0:2][0:2][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+			<Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+		</TileMap>
+	</Layer>
+	<Layer>
+		<Image>
+			<Path>TileMaps/Flooring</Path>
+			<Scale>
+				<X>1.0</X>
+				<Y>1.0</Y>
+			</Scale>
+		</Image>
+		<SolidTiles>[1:0][0:1]</SolidTiles>
+		<OverlayTiles>[2:0]</OverlayTiles>
+		<TileMap>
+			<Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+			<Row>[x:x][0:1][0:1][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+			<Row>[x:x][x:x][x:x][x:x][2:0][x:x][x:x][x:x][x:x][x:x]</Row>
+			<Row>[x:x][x:x][x:x][1:0][1:0][x:x][x:x][x:x][x:x][x:x]</Row>
+			<Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+			<Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+		</TileMap>
+	</Layer>
+</Map>
